@@ -1,0 +1,6 @@
+pandas
+nltk
+matplotlib
+wordcloud
+arabic_reshaper
+python-bidi
